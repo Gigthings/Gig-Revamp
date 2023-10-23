@@ -1,2 +1,2 @@
 # Gig-Revamp
-VA Training Test 
+VA Training  
