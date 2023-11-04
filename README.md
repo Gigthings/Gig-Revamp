@@ -1,3 +1,7 @@
+Autor - SK 
+<br>
+adding few Chat GPT Command. 
+
 💎 It’s a hand-picked collection of resources for solving practical marketing tasks, such as:
 
 finding beta testers
