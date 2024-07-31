@@ -2,15 +2,13 @@ Autor - SK
 <br>
 adding few Chat GPT Command. 
 
-💎 It’s a hand-picked collection of resources for solving practical marketing tasks, such as:
+💎 It’s a hand-picked collection of resources for solving practical marketing tasks & Data Analysis, Data Warehousing, Java Script Le such as:
 
-finding beta testers
-growing first user base
-advertising project without a budget
-scaling marketing activities for building constant revenue streams.
+**growing first user base
+** advertising project without a budget
+** scaling marketing activities for building constant revenue streams.
+
 We faced these question when we made our first product (a tool for iOS engineers). It took us almost 2 years to learn how to market our project. 😤 During this time we read, tried and bookmarked many useful things: articles, videos, spreadsheets, podcasts & tools. These resources helped us a lot! Please, learn, adapt and test awesome marketing hacks from our collection & experience. Good luck!
-
-Lisa & Ahmed, founders of Flawless App, tool to verify iOS app according to the design
 
 **🛠 How to Use and Contribute**
 For getting needed advice, please:
